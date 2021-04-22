@@ -29,6 +29,8 @@
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-CA121?style=flat&logo=Gitlab&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
