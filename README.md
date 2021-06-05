@@ -10,6 +10,7 @@
 
 - 我的博客：[www.xuanmo.xin](https://www.xuanmo.xin)
 - QQ：993901865
+- 微信：D-xuanmo
 - Email：me@xuanmo.xin
 - 微博：[轩陌](http://weibo.com/xuanmos/)
 
