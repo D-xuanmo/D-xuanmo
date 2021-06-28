@@ -1,7 +1,5 @@
 # Hi，我是一名前端开发
 
-2015年下半年至2016年都是处于边工作边学习前端的阶段，2017年正式开始做前端开发
-
 一路走来很坎坷，但是我喜欢前端
 
 一直努力成长中🧑‍💻
@@ -12,12 +10,11 @@
 - QQ：993901865
 - 微信：D-xuanmo
 - Email：me@xuanmo.xin
-- 微博：[轩陌](http://weibo.com/xuanmos/)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&langs_count=10&layout=compact" />
 </p>
 
 <p>
