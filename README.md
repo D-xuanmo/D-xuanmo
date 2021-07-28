@@ -23,6 +23,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React.js-61dafb?style=flat&logo=React&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=Nuxt.js&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" />
