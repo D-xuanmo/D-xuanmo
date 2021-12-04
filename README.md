@@ -12,9 +12,7 @@
 - Email：me@xuanmo.xin
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&langs_count=10&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&langs_count=10&layout=compact" />
 </p>
 
 <p>
