@@ -1,14 +1,14 @@
-# Hi，我是一名前端开发
+# Hi，I'am a front-end developer
 
-一路走来很坎坷，但是我喜欢前端
+It was a bumpy journey.
 
-一直努力成长中🧑‍💻
+I like the front end and look forward to becoming friends with you.
 
-下边是我的联系方式，欢迎一起交流学习
+My contact information:
 
-- 我的博客：[www.xuanmo.xin](https://www.xuanmo.xin)
-- QQ：993901865
-- 微信：D-xuanmo
+- Blog: [www.xuanmo.xin](https://www.xuanmo.xin)
+- QQ: 993901865
+- Wechat：D-xuanmo
 - Email：me@xuanmo.xin
 
 <p>
