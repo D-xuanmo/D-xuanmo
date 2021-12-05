@@ -2,7 +2,9 @@
 
 It was a bumpy journey.
 
-I like the front end and look forward to becoming friends with you.
+I like front-end development.
+
+Looking forward to becoming friends with you.
 
 My contact information:
 
