@@ -1,11 +1,3 @@
-# Hi，I'am a front-end developer
-
-It was a bumpy journey.
-
-I like front-end development.
-
-Looking forward to becoming friends with you.
-
 My contact information:
 
 - Blog: [www.xuanmo.xin](https://www.xuanmo.xin)
