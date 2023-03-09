@@ -4,6 +4,7 @@
 - QQ: 993901865
 - 微信：D-xuanmo
 - Email：me@xuanmo.xin
+- Twitter：[Xuanmo](https://twitter.com/Xuanmo_d)
 
 ## 摸鱼动态
 
