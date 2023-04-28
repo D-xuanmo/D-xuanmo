@@ -8,7 +8,7 @@
 
 ## 摸鱼动态
 
-![Metrics](/github-metrics.svg)
+![Metrics](./base_metrics.svg)
 
 ## 技术栈
 |End|Stack|
