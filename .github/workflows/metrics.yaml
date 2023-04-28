@@ -27,7 +27,7 @@ jobs:
         with:
           filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "activity, repositories"
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
