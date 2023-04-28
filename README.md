@@ -8,9 +8,7 @@
 
 ## 摸鱼动态
 
-|.|.|
-|---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true&theme=vue" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-xuanmo&langs_count=10&layout=compact&theme=vue" />|
+![Metrics](/github-metrics.svg)
 
 ## 技术栈
 |End|Stack|
