@@ -9,6 +9,7 @@
 ## 摸鱼动态
 
 ![Metrics](./base_metrics.svg)
+![Icons](./metrics.plugin.topics.icons.svg)
 
 ## 技术栈
 |End|Stack|

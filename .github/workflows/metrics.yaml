@@ -22,3 +22,12 @@ jobs:
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
