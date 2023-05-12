@@ -9,6 +9,7 @@
 ## 摸鱼动态
 
 ![Metrics](./base_metrics.svg)
+![Languages](./metrics.plugin.languages.indepth.svg)
 
 ## 技术栈
 |End|Stack|
