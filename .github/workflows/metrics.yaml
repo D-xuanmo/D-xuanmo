@@ -42,3 +42,4 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 10
           plugin_languages_analysis_timeout: 15
+          commits_authoring: D-xuanmo, Xuanmo, xuanmo, me@xuanmo.xin
