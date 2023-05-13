@@ -9,7 +9,10 @@
 ## 摸鱼动态
 
 ![Metrics](./base_metrics.svg)
-![Languages](./metrics.plugin.languages.indepth.svg)
+
+|.|.|
+|:---:|:---:|
+|![https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true&theme=vue](https://github-readme-stats.vercel.app/api?username=D-xuanmo&show_icons=true&theme=vue)|![Languages](./metrics.plugin.languages.indepth.svg)|
 
 ## 技术栈
 |End|Stack|
