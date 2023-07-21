@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 36.4mb of code in 7008 edited files across 1588 commits</small>
+                <small>estimation from 35.4mb of code in 6998 edited files across 1589 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="135.56007444197778" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="135.56007444197778" y="0" width="124.73454620175544" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="260.2946206437332" y="0" width="81.73370736395546" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="342.0283280076887" y="0" width="74.27292530702114" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="416.3012533147098" y="0" width="30.40990166740146" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.7111549821112" y="0" width="13.288845017888704" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.36939260252208" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="136.36939260252208" y="0" width="122.1767090426653" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="258.5461016451874" y="0" width="82.41836324181507" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="340.9644648870024" y="0" width="74.80981974083136" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="415.7742846278338" y="0" width="30.81817439862656" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.59245902646035" y="0" width="13.407540973539646" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>18.7k lines</div>
-                                <div>683 kB</div>
+                                <div>682 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,8 +63,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.84k lines</div>
-                                <div>254 kB</div>
+                                <div>9.89k lines</div>
+                                <div>255 kB</div>
                             </small>
                         </div>
                     </section>
@@ -77,8 +77,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>7.91k lines</div>
-                                <div>1.04 MB</div>
+                                <div>7.90k lines</div>
+                                <div>1.01 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>25.1k lines</div>
-                                <div>620 kB</div>
+                                <div>619 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
