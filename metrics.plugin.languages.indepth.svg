@@ -16,31 +16,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.4mb of code in 7538 edited files across 1677 commits</small>
+                <small>estimation from 41.2mb of code in 7619 edited files across 1686 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="134.38423077247842" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="134.38423077247842" y="0" width="129.4616619642536" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="263.845892736732" y="0" width="77.5315962350137" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="341.3774889717457" y="0" width="71.5180209576035" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="412.89550992934926" y="0" width="34.10108237928027" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.9965923086295" y="0" width="13.00340769137052" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.74456124782495" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="136.74456124782495" y="0" width="130.68579470738618" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="267.43035595521116" y="0" width="75.95300897592105" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="343.3833649311322" y="0" width="70.8938246307" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="414.2771895618322" y="0" width="32.974193847888735" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="447.2513834097209" y="0" width="12.748616590279076" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                CSS
                             </div>
                             <small>
-                                <div>10.6k lines</div>
-                                <div>1.21 MB</div>
+                                <div>8.16k lines</div>
+                                <div>1.27 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,8 +51,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>19.2k lines</div>
-                                <div>698 kB</div>
+                                <div>19.4k lines</div>
+                                <div>707 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,13 +72,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                JavaScript
                             </div>
                             <small>
-                                <div>8.15k lines</div>
-                                <div>1.17 MB</div>
+                                <div>10.6k lines</div>
+                                <div>1.22 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>26.1k lines</div>
-                                <div>644 kB</div>
+                                <div>26.8k lines</div>
+                                <div>660 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,8 +101,8 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>6.64k lines</div>
-                                <div>117 kB</div>
+                                <div>6.72k lines</div>
+                                <div>118 kB</div>
                             </small>
                         </div>
                     </section>
