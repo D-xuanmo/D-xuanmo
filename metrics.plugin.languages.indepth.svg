@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 39.1mb of code in 8172 edited files across 1811 commits</small>
+                <small>estimation from 39.1mb of code in 8175 edited files across 1813 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="130.64411789726384" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="130.64411789726384" y="0" width="125.5608196980306" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="256.20493759529444" y="0" width="75.1070102111692" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="331.3119478064637" y="0" width="75.04766708017398" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="406.35961488663764" y="0" width="40.35193150299473" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.71154638963236" y="0" width="13.288453610367661" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="130.62100882769212" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="130.62100882769212" y="0" width="125.5386097909595" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="256.1596186186516" y="0" width="75.11575962338546" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="331.27537824203705" y="0" width="75.0937248589296" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="406.36910310096664" y="0" width="40.34479382540569" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.71389692637234" y="0" width="13.286103073627658" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -46,12 +46,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PHP
+                                Vue
                             </div>
                             <small>
-                                <div>19.2k lines</div>
+                                <div>28.1k lines</div>
                                 <div>698 kB</div>
                             </small>
                         </div>
@@ -84,12 +84,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                PHP
                             </div>
                             <small>
-                                <div>28.1k lines</div>
+                                <div>19.2k lines</div>
                                 <div>698 kB</div>
                             </small>
                         </div>
