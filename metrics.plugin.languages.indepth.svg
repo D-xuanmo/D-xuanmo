@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.4mb of code in 9484 edited files across 2052 commits</small>
+                <small>estimation from 35.5mb of code in 9413 edited files across 2047 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.27099076828488" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="104.27099076828488" y="0" width="102.58488421382091" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="206.85587498210577" y="0" width="71.1795239774323" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="278.0353989595381" y="0" width="65.70677562534134" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="343.7421745848794" y="0" width="62.41387638258209" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="406.1560509674615" y="0" width="53.843949032538475" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.86962875756555" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="105.86962875756555" y="0" width="95.90029727502981" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="201.76992603259538" y="0" width="72.81754197647668" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="274.58746800907204" y="0" width="66.71121752405239" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="341.29868553312446" y="0" width="63.61828215973008" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="404.91696769285454" y="0" width="55.083032307145494" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>10.8k lines</div>
-                                <div>1.14 MB</div>
+                                <div>10.7k lines</div>
+                                <div>1.13 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>18.6k lines</div>
-                                <div>681 kB</div>
+                                <div>679 kB</div>
                             </small>
                         </div>
                     </section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>14.3k lines</div>
-                                <div>1.12 MB</div>
+                                <div>1.02 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>28.7k lines</div>
-                                <div>717 kB</div>
+                                <div>28.5k lines</div>
+                                <div>712 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
