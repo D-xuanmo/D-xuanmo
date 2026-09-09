@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 35.5mb of code in 9424 edited files across 2049 commits</small>
+                <small>estimation from 38.4mb of code in 9495 edited files across 2054 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.93087284876003" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="105.93087284876003" y="0" width="95.72213413494897" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="201.65300698370902" y="0" width="72.98339633397462" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="274.63640331768363" y="0" width="66.58728172478563" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="341.2236850424693" y="0" width="63.50009240184413" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="404.7237774443134" y="0" width="55.276222555686594" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.33376294166105" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="104.33376294166105" y="0" width="102.39858179567007" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="206.73234473733112" y="0" width="71.34462901813795" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="278.07697375546906" y="0" width="65.58744682479036" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="343.66442058025945" y="0" width="62.3005277524661" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="405.9649483327255" y="0" width="54.03505166727448" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>10.7k lines</div>
-                                <div>1.13 MB</div>
+                                <div>10.9k lines</div>
+                                <div>1.14 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>18.6k lines</div>
-                                <div>679 kB</div>
+                                <div>681 kB</div>
                             </small>
                         </div>
                     </section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>14.3k lines</div>
-                                <div>1.02 MB</div>
+                                <div>1.12 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>28.5k lines</div>
-                                <div>712 kB</div>
+                                <div>28.7k lines</div>
+                                <div>717 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
