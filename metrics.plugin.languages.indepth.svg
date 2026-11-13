@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 38.4mb of code in 9506 edited files across 2055 commits</small>
+                <small>estimation from 37.3mb of code in 9473 edited files across 2052 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.544163985578" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="104.544163985578" y="0" width="102.25689351213917" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="206.80105749771715" y="0" width="71.37974635058697" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="278.1808038483041" y="0" width="65.49669388076695" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="343.67749772907104" y="0" width="62.214322898008945" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="405.89182062708" y="0" width="54.10817937291997" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="105.71485128417447" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="105.71485128417447" y="0" width="97.87665271690166" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="203.59150400107612" y="0" width="72.42578103446817" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="276.01728503554426" y="0" width="66.12554305209474" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="342.14282808763903" y="0" width="62.956064080046495" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="405.0988921676855" y="0" width="54.90110783231445" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>11k lines</div>
-                                <div>1.15 MB</div>
+                                <div>10.9k lines</div>
+                                <div>1.14 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>18.6k lines</div>
-                                <div>681 kB</div>
+                                <div>679 kB</div>
                             </small>
                         </div>
                     </section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>14.3k lines</div>
-                                <div>1.12 MB</div>
+                                <div>1.06 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>28.7k lines</div>
-                                <div>717 kB</div>
+                                <div>28.5k lines</div>
+                                <div>713 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
