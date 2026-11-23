@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 44.8mb of code in 9688 edited files across 2072 commits</small>
+                <small>estimation from 41mb of code in 9577 edited files across 2061 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="118.71648224007538" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="118.71648224007538" y="0" width="103.72235381780393" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="222.4388360578793" y="0" width="65.68500218243713" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="288.12383824031645" y="0" width="62.622580827792014" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="350.7464190681085" y="0" width="59.46220365882389" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="410.20862272693233" y="0" width="49.79137727306763" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="109.11818816094517" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="109.11818816094517" y="0" width="107.16417575444471" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="216.28236391538988" y="0" width="68.41230880666753" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="284.6946727220574" y="0" width="63.482128659046445" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="348.17680138110387" y="0" width="59.96443383643598" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="408.1412352175399" y="0" width="51.85876478246016" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                             </div>
                             <small>
                                 <div>14.6k lines</div>
-                                <div>1.41 MB</div>
+                                <div>1.25 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,8 +63,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>19.4k lines</div>
-                                <div>707 kB</div>
+                                <div>18.7k lines</div>
+                                <div>685 kB</div>
                             </small>
                         </div>
                     </section>
@@ -78,7 +78,7 @@
                             </div>
                             <small>
                                 <div>11.1k lines</div>
-                                <div>1.23 MB</div>
+                                <div>1.22 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>29.9k lines</div>
-                                <div>745 kB</div>
+                                <div>29k lines</div>
+                                <div>725 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
